@@ -1,5 +1,7 @@
 # pip install paho-mqtt
-# python chat_mqtt.py sender receiver
+# python chat.py sender receiver
+# python chat.py receiver sender
+
 
 import paho.mqtt.client as mqtt
 import threading
